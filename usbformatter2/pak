@@ -1,0 +1,7 @@
+#!/bin/sh
+rm usbformatter-1.1-1-any.pkg.tar.xz
+rm usbformatter-1.1.tar.gz
+rm -Rf src
+rm -Rf pkg
+tar cvzf usbformatter-1.1.tar.gz usbformatter-1.1
+makepkg -g

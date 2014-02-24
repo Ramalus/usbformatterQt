@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+gksu python /usr/local/usbformatter/usbformatter.py

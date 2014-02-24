@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment[en_US]=Pendrive formatting GUI utility.
+Comment=Pendrive formatting GUI utility.
+Exec=/usr/bin/usbformatter
+GenericName[en_US]=USBFormatter
+GenericName=USBFormatter
+Icon=usb-usbformatter.png
+Name[en_US]=USBFormatter
+Name=USBFormatter
+Path=/usr/local/usbformatter
+StartupNotify=true
+Terminal=false
+Type=Application
