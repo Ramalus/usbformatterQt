@@ -1,0 +1,4 @@
+usbformatterQt
+==============
+
+USBFormatter Qt
